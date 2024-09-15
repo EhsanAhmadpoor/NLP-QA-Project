@@ -26,8 +26,5 @@ A question answering system designed for Persian text, leveraging retrieval-augm
 Thanks to the creators of the Transformers, SentenceTransformers, and Hazm libraries.
 
 ## Special thanks to my teammates:
-### Acknowledgments
-
-## Special thanks to my teammates:
 - **Melika Mohammadi Fakhar** - [LinkedIn](https://www.linkedin.com/in/melika-mohammadi-fakhar-25b126201)
 - **Setare Babajani** - [LinkedIn](https://www.linkedin.com/in/setareh-babajani)
